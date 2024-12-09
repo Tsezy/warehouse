@@ -3,23 +3,12 @@
     "总开关": "true",
     "点击外部关闭弹窗": "false",
     "标题": "Hello，这是一封邀请函...",
-    "信息": "<div style='width: 400px; background: #fff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); font-family: Arial, sans-serif; overflow: hidden;'>
-    <div style='background: #673ab7; color: #fff; padding: 15px; font-size: 20px; font-weight: bold; text-align: center;'>
-        Hello，这是一封邀请函...
-    </div>
-    <div style='padding: 20px; font-size: 16px; color: #333; line-height: 1.6; text-align: center;'>
-        <p>这位侠客请留步，我看你骨骼惊奇实力不凡，不如加入我们频道...</p>
-        <p><strong>软件精选 | 网站导航 | 开源推荐</strong></p>
-        <p>我们频道里面包含免费实用破解的软件</p>
-        <p>欢迎加入我们官方资源频道：<a href='https://t.me/your_channel' target='_blank' style='color: #673ab7; font-weight: bold; text-decoration: none;'>TG频道</a></p>
-        <p>加入我们官方TG群聊，不走散步迷路</p>
-    </div>
-    <div style='text-align: center; padding: 15px; background: #f9f9f9; border-top: 1px solid #e0e0e0;'>
-        <button style='padding: 10px 20px; font-size: 14px; border: none; border-radius: 5px; background: #673ab7; color: #fff; cursor: pointer;' onclick='this.parentElement.parentElement.style.display="none";'>
-            关闭
-        </button>
-    </div>
-</div>",
+    "信息": "<div style='padding: 20px; font-size: 16px; color: #333; line-height: 1.6; text-align: center;'>
+<p>这位侠客请留步，我看你骨骼惊奇实力不凡，不如加入我们频道...</p>
+<p><strong>软件精选 | 网站导航 | 开源推荐</strong></p>
+<p>我们频道里面包含免费实用破解的软件</p>
+<p>欢迎加入我们官方资源频道：<a href='https://t.me/your_channel' target='_blank' style='color: #673ab7; font-weight: bold; text-decoration: none;'>TG频道</a></p>
+<p>加入我们官方TG群聊，不走散步迷路</p></div>",
     "主题颜色": "#267AB6",
     
     "中立按钮": "false",
